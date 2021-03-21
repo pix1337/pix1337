@@ -11,7 +11,7 @@ Discord
 </p>
 <p align="left">
 <img src="https://github.com/pix1337/pix1337/blob/main/Discord.png" width="30">
-<a align="left" href="https://skadaddle.gg/">
+<a align="left" href="https://discord.gg/skadaddle">
 Discord Server
 </a>
 </p>
