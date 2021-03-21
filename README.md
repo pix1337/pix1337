@@ -2,6 +2,26 @@
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
 
+### Socials:
+<p align="left">
+<img src="https://github.com/pix1337/pix1337/blob/main/Discord.png" width="30">
+<a align="left" href="https://discord.com/users/804066223741730836">
+Discord
+</a>
+</p>
+<p align="left">
+<img src="https://github.com/pix1337/pix1337/blob/main/Discord.png" width="30">
+<a align="left" href="https://skadaddle.gg/">
+Discord Server
+</a>
+</p>
+<p align="left">
+<img src="https://github.com/pix1337/pix1337/blob/main/Skadaddle.png" width="30">
+<a align="left" href="https://skadaddle.cc/">
+Website
+</a>
+</p>
+
 
 ### Programs and Languages I use:
 <p align="left">
