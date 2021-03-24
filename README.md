@@ -4,19 +4,19 @@
 
 ### Socials:
 <p align="left">
-<img src="https://github.com/pix1337/pix1337/blob/main/Discord.png" width="30">
+<img src="https://github.com/pix1337/eozri/blob/main/Discord.png" width="30">
 <a align="left" href="https://discord.com/users/804066223741730836">
 Discord
 </a>
 </p>
 <p align="left">
-<img src="https://github.com/pix1337/pix1337/blob/main/Discord.png" width="30">
+<img src="https://github.com/pix1337/eozri/blob/main/Discord.png" width="30">
 <a align="left" href="https://discord.gg/skadaddle">
 Discord Server
 </a>
 </p>
 <p align="left">
-<img src="https://github.com/pix1337/pix1337/blob/main/Skadaddle.png" width="30">
+<img src="https://github.com/pix1337/eozri/blob/main/Skadaddle.png" width="30">
 <a align="left" href="https://skadaddle.cc/">
 Website
 </a>
@@ -44,6 +44,6 @@ Website
 
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=pix1337&show_icons=true&theme=radical) 
+![stats](https://github-readme-stats.vercel.app/api?username=eozri&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pix1337&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eozri&theme=radical)
