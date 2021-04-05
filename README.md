@@ -9,19 +9,19 @@
 <p align="center"><b>Socials</b></p>
 
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/eozri/eozri/blob/main/Discord.png" width="30">
 <a align="left" href="https://discord.com/users/804066223741730836">
 Discord
 </a>
 </p>
-<p align="left">
+<p align="center">
 <img src="https://github.com/eozri/eozri/blob/main/Discord.png" width="30">
 <a align="left" href="https://discord.gg/Y2yxAVnj3n">
 Discord Server
 </a>
 </p>
-<p align="left">
+<p align="center">
 <img src="https://github.com/eozri/eozri/blob/main/Skadaddle.png" width="30">
 <a align="left" href="https://skadaddle.cc/">
 Website
