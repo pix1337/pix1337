@@ -1,8 +1,14 @@
 <h1 align="center">Hi there 👋</h1>
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
+<p align="center"><b>about me</b></p>
+<h1 align="center">I am just a 16 yo who codes when they are bored</h1>
 
-### Socials:
+
+
+<p align="center"><b>Socials</b></p>
+
+
 <p align="left">
 <img src="https://github.com/eozri/eozri/blob/main/Discord.png" width="30">
 <a align="left" href="https://discord.com/users/804066223741730836">
@@ -22,8 +28,7 @@ Website
 </a>
 </p>
 
-
-### Programs and Languages I use:
+<p align="center"><b>Programs and Languages I use</b></p>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="30">
@@ -46,6 +51,5 @@ Website
 
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=eozri&show_icons=true&theme=radical) 
-
+![stats](https://github-readme-stats.vercel.app/api?username=eozri&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eozri&theme=radical)
