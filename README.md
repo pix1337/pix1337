@@ -29,7 +29,7 @@ Website
 </p>
 
 <p align="center"><b>Programs and Languages I use</b></p>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30">
