@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
-<p align="center"><b>about me</b></p>
 <h1 align="center">I am just a 16 yo who codes when they are bored</h1>
 
 
