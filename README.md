@@ -9,9 +9,8 @@
 
 
 <p align="center">
-<img src="https://github.com/eozri/eozri/blob/main/Discord.png" width="30">
-<a align="left" href="https://discord.com/users/804066223741730836">
-Discord
+<img src="https://discord.c99.nl/widget/theme-2/804066223741730836.png">
+
 </a>
 </p>
 <p align="center">
