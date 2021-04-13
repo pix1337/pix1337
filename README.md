@@ -49,5 +49,5 @@ Website
 
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=eozri&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eozri&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=eozri&show_icons=true&theme=radical)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eozri&layout=compact&theme=radical) 
