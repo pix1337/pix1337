@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=eozri&color=blue" alt="fax" width="" height="">
 <h1 align="center">Hi there 👋</h1>
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
