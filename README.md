@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=eozri&color=blue" alt="fax" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=pix0070&color=blue" alt="fax" width="" height="">
 <h1 align="center">Hi there 👋</h1>
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
@@ -36,5 +36,5 @@
 
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=eozri&show_icons=true&theme=radical)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eozri&layout=compact&theme=radical) 
+![stats](https://github-readme-stats.vercel.app/api?username=pix0070&show_icons=true&theme=radical)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pix0070&layout=compact&theme=radical) 
