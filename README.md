@@ -34,4 +34,4 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=pix0070&show_icons=true&theme=graywhite)    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pix0070&layout=compact&theme=graywhite)       
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eozri)](https://github.com/anuraghazra/github-readme-stats)
+
